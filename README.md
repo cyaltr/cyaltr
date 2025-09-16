@@ -1,6 +1,2 @@
-- 👋 Hi, Chloe here
-
-<!---
-cyaltr/cyaltr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Problems worthy of attack prove their worth by fighting back" -Piet Hein
+"And they pack a mean punch" -Me
